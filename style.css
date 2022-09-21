@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500&family=Inconsolata&family=Oooh+Baby&family=Ubuntu:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 80vw;
+    font-family: 'Ubuntu', sans-serif;
+    }
+    
+.logo{
+    font-size: 2rem;
+}
+
+.box{
+    min-width: 20vw;
+    margin:15px 22px;
+    border:2px solid rgb(226 73 55);
+    border-radius: 4px;
+    text-align: center;
+    
+}
+
+.box ul{
+    list-style-type: none;
+}
+.box h1{
+     margin: 12px 0;
+    
+}
+
+.box ul li{
+    margin:8px 0;
+   
+}
+.highlighted{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.section2 p{
+    padding:0 50px;
+}
+
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    padding:12px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}

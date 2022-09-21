@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500&family=Inconsolata&family=Oooh+Baby&family=Ubuntu:wght@300&display=swap');
+
+
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.mx-auto{
+    margin-left : auto;
+    margin-right: auto;
+}
+
+
+.navbar li{
+    list-style: none;
+    margin:0px 12px;
+}
+
+.navbar{
+    display:flex;
+    height: 70px;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex{
+    display:flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: 900;
+}
+
+.topLeft{
+    width: 50%;
+   
+}
+
+.topRight{
+width:50%;
+
+}
+
+.my-1{
+     margin-top: 13px;
+     margin-bottom: 13px;
+}
+
+.my-2{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+.px-2{
+    padding-left:13px;
+    padding-right: 13px;
+}
+
+.btn{
+    padding: 7px 8px;
+    border: 2px solid white;
+    background-color: rgb(226 73 55);
+    color: white;
+    border-radius: 12px; 
+    cursor:pointer;
+}
+
+.text-blue{
+    color:rgb(226 73 55);
+}
+
+.section1{
+    max-height: 100vh;
+}
+.section1 h1{
+    color: rgb(226 73 55);
+}
+
+.text-center{
+    text-align: center;
+}
+
+.topRight .gymimg{
+    width: 292px;
+}
+
+.topLeft .dumbel{
+    width:200px;
+}
+
+.section2{
+  padding:80px;
+}
+.section h1{
+    font-size: 3rem;
+}
+
+.section3 table{
+    width: 100%;
+    margin-top:25px;
+    margin-bottom:10px;
+    border-collapse: collapse;
+}
+
+.section3 table th{
+    width:25vw;
+    border-bottom : 2px solid rgb(226 73 55);
+    padding:10px 0;
+}
+
+.section3 table td{
+    border-bottom : 2px solid rgb(226 73 55);
+}
+.section3 table tr{
+    border-bottom : 2px solid rgb(226 73 55);
+}
+
+.section3{
+    padding:80px;
+}
+
